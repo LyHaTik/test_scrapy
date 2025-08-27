@@ -14,7 +14,7 @@ Scrapy-проект для парсинга данных с сайта [Alcoteka
 ## Установка
 
 1. Клонируем репозиторий:
-git clone <your-repo-url>
+git clone git@github.com:LyHaTik/test_scrapy.git
 
 2. Создаем виртуальное окружение и устанавливаем зависимости:
 python -m venv venv
